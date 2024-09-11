@@ -29,6 +29,12 @@ If you want to obfuscate the VBScript yourself, follow these steps:
 3. Run the obfuscation commands to generate the obfuscated script.
 4. The resulting script will be similar to the `ObfuscatedVBS.vbs` file included in this repository.
 
+#### Connecting to the affected machine
+While in the server use a tool like nc (Netcat) to listen on the port you specified in the script
+bash
+```bash
+nc -lvp 8888
+```
 
 ### Credits
 Special thanks to [gh0x0st](https://github.com/gh0x0st) for creating the [Invoke-PSObfuscation](https://github.com/gh0x0st/Invoke-PSObfuscation) tool, which was used in this project to obfuscate the VBScript and PowerShell code.
