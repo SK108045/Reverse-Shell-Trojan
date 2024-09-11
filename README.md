@@ -1,5 +1,5 @@
 # Reverse-Shell-Trojan
-##  Obfuscated Reverse Shell Trojan Invoke-PSObfuscation Tool
+##  Obfuscated Reverse Shell Trojan using Invoke-PSObfuscation Tool
 
 ![AI Tweet Bot Logo](https://simkafire.com/img/Red.png)
 
