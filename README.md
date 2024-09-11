@@ -32,7 +32,7 @@ If you want to obfuscate the VBScript yourself, follow these steps:
 #### Connecting to the affected machine
 While in the server use a tool like nc (Netcat) to listen on the port you specified in the script
 bash
-```bash
+```
 nc -lvp 8888
 ```
 
