@@ -1,7 +1,7 @@
 # Reverse-Shell-Trojan
 ##  Obfuscated Reverse Shell Trojan using Invoke-PSObfuscation Tool
 
-![AI Tweet Bot Logo](https://simkafire.com/img/Red.png)
+![AI Tweet Bot Logo](https://sk10codebase.online/images/Red.png)
 
 This repository contains a reverse shell script written in Visual Basic SCRIPT , as well as its obfuscated counterpart. The purpose of this project is purely educational—to demonstrate how reverse shells work and to explore the use of obfuscation techniques to avoid detection by common security measures. Use this information responsibly.
 
